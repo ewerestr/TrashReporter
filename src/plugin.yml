@@ -1,0 +1,8 @@
+name: TrashReporter
+main: me.ewerestr.trashreporter.a
+description: Emptiness
+version: 1.7
+author: ewerestr@gmail.com
+commands:
+   trashreporter:
+      aliases: [trash,treport,trep,tr]
